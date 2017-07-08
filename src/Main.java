@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /* To-Do List - project idea: https://goo.gl/PK2erS
 //TODO Create Menu System
-//TODO Make Student Object
+//TODO Make Database class
 //TODO Output/Input student list to/from a file
 */
 
