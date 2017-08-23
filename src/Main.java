@@ -8,7 +8,8 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner inpt = new Scanner(System.in);
 		DataBase recordStore = new DataBase();
-
+		
+		//Name may be changed
 		System.out.println("Welcome to The University Student Manager.");
 		int response = 0;
 
