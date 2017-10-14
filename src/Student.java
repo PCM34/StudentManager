@@ -5,7 +5,7 @@ public class Student {
   private String lastName;
   private String stuYear;
   private int ID;
-  private ArrayList<Integer> grades1stSem = new ArrayList<Integer>() ;
+  private ArrayList<Integer> grades1stSem = new ArrayList<Integer>();
   private ArrayList<Integer> grades2ndSem = new ArrayList<Integer>();
 
   public Student(String firstName, String lastName, String stuYear) {
